@@ -49,39 +49,6 @@ I use React and TypeScript to create responsive interfaces and connect frontend 
 
 I use Python for automation, data processing, machine learning, and NLP, while SQL Server and PostgreSQL support relational data storage and querying.
 
-## Education
-
-- **Master’s Degree in Computer Engineering**  
-  University of Prishtina — 2024 to present
-
-- **Bachelor’s Degree in Computer and Electrical Engineering**  
-  University of Prishtina — 2021 to 2024
-
-- **Python Course**  
-  Beetroot Academy — 2023 to 2024
-
-## Projects
-
-### [WezTerm + PowerShell Dotfiles](https://github.com/LirakXhelili/wezterm-powershell-dotfiles)
-
-Automated Windows terminal setup using WezTerm, PowerShell 7, Oh My Posh, eza, zoxide, and custom development commands.
-
-### [Narrative Style Transfer](https://github.com/LirakXhelili/Narrative-Style-Transfer)
-
-NLP project focused on detecting and interpreting narrative-style cues using traditional machine learning and neural techniques.
-
-### [Machine Learning — Rainfall Prediction](https://github.com/AlbaThaqi/MachineLearning)
-
-Team project for processing historical rainfall data and building machine-learning models to analyze and predict rainfall patterns in Albania.
-
-### [Air Quality Monitoring System](https://github.com/BlerttaKrasniqi/Air-Quality-Monitoring-System)
-
-Team project for real-time air-quality processing using technologies including Kafka, Spark, Cassandra, Docker, Prometheus, and dashboards.
-
-### Interview Scheduler
-
-Full-stack application built with .NET, React, TypeScript, and PostgreSQL for managing candidates, interviewers, and interview time slots.
-
 ## Connect with me
 
 <p>
